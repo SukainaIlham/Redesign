@@ -1,0 +1,76 @@
+/* Resetting default margin and padding */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #1e1e1e; /* Warna latar belakang biru di luar konten */
+}
+
+/* Centering text and elements */
+h4, .centered-text, .center-content {
+    text-align: center;
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: #1e1e1e;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+
+}
+
+.navbar-dark .form-control {
+    width: 90px; /* Sesuaikan ukuran lebar sesuai kebutuhan */
+    height: 29px; /* Sesuaikan ukuran tinggi sesuai kebutuhan */
+}
+
+.navbar-dark .btn-outline-success .fas {
+    font-size: 13px; /* Sesuaikan ukuran ikon sesuai kebutuhan */
+}
+
+
+
+.container {
+    background-color: #1e1e1e !important; /* Warna hitam */
+    color: #fff !important; /* Warna teks putih */
+}
+
+.content-container {
+    background-color: #1e1e1e !important; /* Warna hitam */
+    color: #fff !important; /* Warna teks putih */
+}
+
+/* Logo styling */
+.logo-img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* Container and card body styling */
+.container, .card-body {
+    background-color: #1e1e1e;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.card-body p {
+    margin-bottom: 0; /* Menghilangkan margin bawah default pada paragraf */
+}
+
+/* Footer styling */
+.footer {
+    background-color: #1e1e1e;
+    color: #fff;
+    text-align: center;
+}
+
+.navbar-container {
+    background-color: blue; /* Ganti dengan warna yang Anda inginkan */
+    padding: 10px; /* Sesuaikan padding sesuai kebutuhan */
+}
