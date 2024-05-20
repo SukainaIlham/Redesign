@@ -7,7 +7,7 @@ Navbar Before
 ![HEAD](https://github.com/SukainaIlham/Redesign/blob/main/Screenshot%20(38).png)
 ![HEAD](https://github.com/SukainaIlham/Redesign/blob/main/Screenshot%20(39).png)
 AFTER
-![HEAD](https://github.com/SukainaIlham/Redesign/blob/main/Screenshot%20(27).png)
+![HEAD](https://github.com/SukainaIlham/Redesign/blob/main/Screenshot%20(47).png)
 ![HEAD](https://github.com/SukainaIlham/Redesign/blob/main/Screenshot%20(28).png)
 Navbar After
 
